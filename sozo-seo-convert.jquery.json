@@ -1,0 +1,28 @@
+{
+  "name": "sozo-seo-convert",
+  "title": "SOZO SEO Convert",
+  "description": "A script to generate valid seo page names from the content of the field selected.",
+  "version": "1.0.0",
+  "homepage": "https://bitbucket.org/sozodesign/sozoseoconvert",
+  "author": {
+    "name": "Clive Walkden",
+    "url": "https://github.com/clivewalkden"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/sozodesign/sozoseoconvert"
+  },
+  "bugs": "https://bitbucket.org/sozodesign/sozoseoconvert/issues",
+  "licenses": [
+    {
+      "type": "Proprietary",
+      "url": "http://opensource.org/licenses/Proprietary"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.8.2"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
