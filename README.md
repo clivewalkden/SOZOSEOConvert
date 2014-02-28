@@ -6,8 +6,8 @@ A script to generate valid seo page names from the content of the field selected
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/clivewalkden/jquery-sozo-seo-convert/master/dist/jquery.sozo-seo-convert.min.js
-[max]: https://raw.github.com/clivewalkden/jquery-sozo-seo-convert/master/dist/jquery.sozo-seo-convert.js
+[min]: https://bitbucket.org/sozodesign/sozoseoconvert/raw/master/dist/jquery.sozo-seo-convert.min.js
+[max]: https://bitbucket.org/sozodesign/sozoseoconvert/raw/development/src/sozo-seo-convert.js
 
 In your web page:
 
