@@ -11,10 +11,8 @@ module.exports = function (grunt) {
     // Metadata.
     pkg: grunt.file.readJSON('package.json'),
     banner: '/*!\n' +
-      '* <%= pkg.name %> - for jQuery 1.7+\n' +
+      '* <%= pkg.description %> - for jQuery 1.7+\n' +
       '<%= pkg.homepage ? "* " + pkg.homepage + "\\n" : "" %>' +
-      '*\n' +
-      '* Copyright <%= grunt.template.today("yyyy") %>, <%= pkg.author.name %> (http://clivewalkden.co.uk)\n' +
       '*\n' +
       '* @package <%= pkg.description %>\n' +
       '* @author <%= pkg.author.name %> (<%= pkg.author.url %>)\n' +
@@ -103,5 +101,6 @@ module.exports = function (grunt) {
   // Default task.
   grunt.registerTask('default', ['jshint', 'connect', 'qunit', 'clean', 'concat', 'uglify']);
   grunt.registerTask('server', ['connect', 'watch']);
+  grunt.registerTask('launch', ['jshint', 'clean', 'concat', 'uglify']);
   grunt.registerTask('test', ['jshint', 'connect', 'qunit']);
 };
