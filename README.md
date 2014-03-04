@@ -13,7 +13,7 @@ In your web page:
 
 ```html
 <script src="jquery.js"></script>
-<script src="dist/sozo-seo-convert.min.js"></script>
+<script src="dist/jquery.sozo-seo-convert.min.js"></script>
 <script>
 $(function($) {
   $('input[name=seolink]').SOZOSEOConvert();
@@ -28,6 +28,9 @@ _(Coming soon)_
 _(Coming soon)_
 
 ## Release History
+#### 1.0.1
+ * Moved to github from bitbucket
+
 #### 1.0.0
  * Initial release
 
