@@ -1,12 +1,14 @@
 {
   "name": "sozo-seo-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SOZO SEO Convert",
   "keywords": [
-    "jquery-plugin"
+    "jquery-plugin",
+    "seo",
+    "slug"
   ],
-  "homepage": "https://github.com/clivewalkden/sozo-seo-convert",
-  "bugs": "https://bitbucket.org/sozodesign/sozoseoconvert/issues",
+  "homepage": "https://github.com/clivewalkden/SOZOSEOConvert",
+  "bugs": "https://github.com/clivewalkden/SOZOSEOConvert/issues",
   "author": {
     "name": "Clive Walkden",
     "email": "clive@sozodesign.co.uk",
@@ -14,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clivewalkden/sozo-seo-convert.git"
+    "url": "https://github.com/clivewalkden/SOZOSEOConvert.git"
   },
   "licenses": [
     {
