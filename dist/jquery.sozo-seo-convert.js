@@ -1,6 +1,15 @@
-/*! sozo-seo-convert - v1.0.0 - 2014-02-28
-* https://github.com/clivewalkden/sozo-seo-convert
-* Copyright (c) 2014 Clive Walkden; Licensed Proprietary */
+/*!
+* SOZO SEO Convert - for jQuery 1.7+
+* https://github.com/clivewalkden/SOZOSEOConvert
+*
+* @package SOZO SEO Convert
+* @author Clive Walkden (https://github.com/clivewalkden)
+* @version 1.0.1
+* @license Proprietary
+* @copyright Copyright (c) 2014 Clive Walkden (https://github.com/clivewalkden)
+* @date: 2014-03-04
+*/
+
 (function($){
     $.fn.SOZOSEOConvert = function(custom) {
 
