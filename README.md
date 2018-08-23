@@ -1,5 +1,7 @@
 # SOZO SEO Convert
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clivewalkden/SOZOSEOConvert.svg)](https://greenkeeper.io/)
+
 A script to generate valid seo page names from the content of the field selected.
 
 ## Getting Started
